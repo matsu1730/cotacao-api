@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "exchangerate.api.key",
+    "type": "java.lang.String",
+    "description": "externalKey"
+  },
+  {
+    "name": "exchangerate.api.host",
+    "type": "java.lang.String",
+    "description": "external API Host"
+  }
+]}
